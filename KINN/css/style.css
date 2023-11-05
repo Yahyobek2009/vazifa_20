@@ -1,0 +1,153 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background: #FFF;
+    width: 1440px;
+    height: 6034px;
+}
+.header{
+    background-color:bisque;
+    width: 1335px;
+    height: 88.5px;
+    flex-shrink: 0;
+}
+.user{
+    display: flex;
+    width: 564.594px;
+    height: 98px;
+    flex-shrink: 0;
+}
+.user1{
+    padding: 20px 20px;
+    width: 48px;
+    width: 104.891px;
+    height: 58.516px;
+    flex-shrink: 0;
+    color: #56593D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.2px; /* 157.5% */
+      text-transform: uppercase;
+}
+.user2{
+    padding: 20px 20px;
+    width: 100px;
+    color: #56593D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.2px; /* 157.5% */
+    text-transform: uppercase;
+}
+.user3{
+    padding: 20px 20px;
+    width: 91px;
+    color: #56593D;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 25.2px; /* 157.5% */
+    text-transform: uppercase;
+}
+.user4{
+    padding: 20px 20px;
+    width: 73px;
+    color: #56593D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.2px; /* 157.5% */
+    letter-spacing: 1.575px;
+    text-transform: uppercase;
+}
+.user5{
+     padding: 22px 250px;
+    width: 90px;
+    height: 26px;
+    flex-shrink: 0;
+}
+.figma{
+
+        display: flex;
+        padding: 22px 250px;
+        gap: 15px;
+}
+.figma2{
+    padding: 22px 250px;
+}
+.title{
+      background-image: url(../img/rasm1.png);
+}
+.text{
+    padding: 100px;
+    color: #56593D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 57px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 70px; /* 142.105% */
+    margin-left: 40px;
+    margin-right: 80px;
+}
+.githup{
+    color: #56593D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.6px; /* 160% */
+    letter-spacing: 1.6px;
+}
+.githup2{
+    color: #56593D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.6px; /* 160% */
+    letter-spacing: 1.6px;
+}
+.ins{
+    display: flex;
+}
+h3{
+     text-align: center;
+     justify-content: space-between;
+}
+
+ .brend {
+
+        display:flex;
+       padding: 8px  30px;
+        gap: 20px;
+ }
+ .div{
+    display:flex;
+    /*padding: 8px  30px;*/
+     gap: 500px;
+ }
+ h4 h5 {
+      padding: 15px;
+     color: #56593D;
+    text-align: center;
+    font-family: Roboto;
+    gap: 10px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21.6px; /* 135% */
+    
+ }
+ 
+
+ 
